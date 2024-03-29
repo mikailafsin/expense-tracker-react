@@ -29,8 +29,8 @@ This is a practice repository of the [Expense Tracker React](https://youtu.be/Xu
 
 ### Links
 
--   Solution URL: [GitHub]()
--   Live Site URL: [Vercel]()
+-   Solution URL: [GitHub](https://github.com/mikailafsin/expense-tracker-react)
+-   Live Site URL: [Vercel](https://expense-tracker-react-brown.vercel.app/)
 
 ## My process
 
